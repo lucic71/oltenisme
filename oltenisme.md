@@ -20,9 +20,9 @@ osteneală. Oricum doar oamenii în vârstă îl mai folosesc.
 * cioace
 * machia!?
 
-oare!?. Spre exemplu:
-- Auz' fă, zîsă că e pă drum.
-- Machia!?
+oare!?. Spre exemplu: \
+\- Auz' fă, zîsă că e pă drum. \
+\- Machia!?
 
 * cloță
 * târnă
