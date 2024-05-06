@@ -1,0 +1,33 @@
+Textul de mai jos e cules din [1]. E o rețetă de gogoși transmisă prin viu-grai
+de o gospodină din comuna Odoreu, Satu Mare: "Subiect vorbitor: Doina Toth, 61
+de ani, 10 clase; înregistrare și transcriere: Maria Uivărășan".
+
+Am ales textul pentru că se aseamănă foarte mult cu modul în care vorbim noi în
+Copăceni, Vâlcea. Cuvinte ca "deremețắu̯u", "o͜ n̥tin̟z", "frămînț" au o sonoritate
+foarte asemănătoare cu zona Olteniei.
+
+Desigur că sunt și cuvinte care sunt nenaturale pentru noi, cum ar fi: "așę"
+(noi spunem "așa"), "ésă" (noi spunem "iasă"), "un͜ pt’ic" (bănuiesc că înseamnă
+"un pic", noi spunem mai degrabă "o țîră").
+
+"""
+Da, preĉis, un fel d’ě gogoși̩ , numa că să tai̯e cu deremețắu̯u. (...) Deĉ faĉ ca
+o pắtură, o͜ n̥tin̟z și̩ pă urmă ca să tai̯. Și̩ să fii̯ e așę um͜ pt’ic pă márjină
+parcă crețișor aluatu, cum îl tai̯, să ai̯ bă o formă d’ě pătrățele, și̩ -l mái̯ tái̯
+la mijloc, și̩ pă urmă o part’ě o͜ ntorĉ și̩ i̯ ésă așě, are o formă a ĉurigắului̯,
+și̩ cu ai̯ a să tai̯e, cu deremețắu, așę să spun’ě aiĉ la nu̯ oi, deremețắu. Îi̯ d’ě
+l’i̯ émn, are o cod’ítă șî are o rot’íță d’ě ..., așę undulátă. Pui̯ fă̯ínă,
+d’ěpind’ě cît’ě vrei̯ să faĉ și̩ să frămî´ntă cu sămăt’ișě, u̯ou̯ă, l’ě bat, l’ě pun
+acólo, pátru u̯ ou̯ă, depind’ě că, cu cît pui̯ mái̯ mult’ě ie̯ mái̯ bun că-i̯ mai
+galben la culǫ́re, um͜ pt’ic d’ě zahăr, dá nú pui̯ așę d’ě mult záhăr că, dacă pui̯
+așę mult zahăr în alu̯ at nú crę’șt’ě așę d’ę bin’ě alu̯ atul. Pă ĉurigau̯ ăle pui̯
+și̩ d’i̯asúpra un͜ pt’ic de záhăr praf.  Și̩ pun um͜ pt’ic d’ě drojd’i̯e, și̩ frămî´nt.
+Un͜ pt’ic d’ě sare, că͜ n͜ oriĉe alu̯ at ca sare̯ a͜ n bucat’ě , șt’i tu că n-are
+gust. Trę să pui̯ k’ar dacă faĉ alu̯ atul dulĉe, dá un͜ pt’ic d’ě sare oricum trę
+să pui̯. Ș͜ apu̯ói̯ îl frămînț. Și̩ cînd dost’ěșt’ě, deĉ cręșt’ě alu̯ atu, l-ai̯
+înt’in̟s pă masă, cu suĉitǫre̯a atúňĉina îl tai̯ cu deremețắu̯ cum ț-am ecsplicát,
+și̩ -l púi̯ în láboș, nu̯oi̯ folosî´m láboșe d’ě͜ ast’i̯ a mari̩ , d’ě fi̯er, pun’ěm
+uléi̯ u (olói̯ u), cînd îi̯ îňĉin̟s ai̯ țîpát ĉurigau̯ ăle care li̯ -am tăi̯at pă masă
+"""
+
+[1] https://www.diacronia.ro/ro/journal/issue/5/A71/ro/pdf
