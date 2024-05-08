@@ -11,6 +11,20 @@ a munci. Nu e sinonim unu la unu cu "a munci", dar e cea mai apropiată formă.
 înseamnă să faci diferite treburi prin jurul casei, dar fără prea mare
 osteneală. Oricum doar oamenii în vârstă îl mai folosesc.
 
+* dindărăt
+
+dinapoi. Probabil e folosit și prin alte zone ale țării. Ce e sigur e că e
+foarte puțin folosit la oraș. Nu am auzit pe nimeni de vârsta mea să folosească
+cuvântul ăsta.
+
+* a ghenrăni
+
+a zgâria. Atunci când ești zgâriat de pisică, ești "gherănit".
+
+* Cesă!?
+
+Ce anume!?
+
 * goangă
 * a chiti
 * a face bâză
